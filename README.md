@@ -11,7 +11,7 @@ To run the app locally:
 
 git clone https://github.com/reshmarajank/Counter-Assignment.git
 
-cd Counter-Assignment
+cd  Counter-Assignment
 
 npm start
 
